@@ -1,17 +1,9 @@
-// 20190327123850
-// https://mobiledev-wf958d707.int.sap.hana.ondemand.com/.well-known/assetlinks.json
-
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.sap.androidsdk.multi.piatmultiproject",
-      "sha256_cert_fingerprints": [
-        "6A:20:04:85:AF:3D:FA:87:79:B1:83:E8:CF:B0:6A:0F:21:DB:12:9A:8E:B4:57:21:10:C6:93:90:BD:7D:E1:B4"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sap.androidsdk.multi.piatmultiproject",
+    "sha256_cert_fingerprints":
+    ["8B:2A:62:F2:C5:60:4C:60:83:96:91:4B:5C:D9:8B:DD:4D:CB:22:41:C1:28:0B:0A:4B:F5:0F:89:7A:00:0C:B6"]
   }
-]
+}]
