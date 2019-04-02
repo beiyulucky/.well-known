@@ -5,5 +5,15 @@
     "package_name": "com.sap.androidsdk.multi.piatmultiproject",
     "sha256_cert_fingerprints":
     ["8B:2A:62:F2:C5:60:4C:60:83:96:91:4B:5C:D9:8B:DD:4D:CB:22:41:C1:28:0B:0A:4B:F5:0F:89:7A:00:0C:B6"]
+  }  
+},
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sap.testapplink",
+    "sha256_cert_fingerprints":
+    ["8B:2A:62:F2:C5:60:4C:60:83:96:91:4B:5C:D9:8B:DD:4D:CB:22:41:C1:28:0B:0A:4B:F5:0F:89:7A:00:0C:B6"]
   }
-}]
+}
+]
