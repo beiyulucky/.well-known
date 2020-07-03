@@ -15,5 +15,14 @@
     "sha256_cert_fingerprints":
     ["8B:2A:62:F2:C5:60:4C:60:83:96:91:4B:5C:D9:8B:DD:4D:CB:22:41:C1:28:0B:0A:4B:F5:0F:89:7A:00:0C:B6"]
   }
+},
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sap.gooodd",
+    "sha256_cert_fingerprints":
+    ["51:4D:66:E5:05:8F:C9:75:91:A9:F1:3A:73:C2:5B:BE:1C:26:8F:1D:5D:90:8E:7A:9C:63:4D:D9:1D:0A:0B:76"]
+  }
 }
 ]
